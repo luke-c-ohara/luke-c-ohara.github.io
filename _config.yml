@@ -1,10 +1,8 @@
 # Site settings
-title: Your awesome title
+title: Luke O'Hara
 email: luke.c.ohara@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Windsor based Web developer, a collection of my projects, learnings and wisdom which I would like to impart on the world.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://luke-c-ohara.github.io" # the base hostname & protocol for your site
 twitter_username: luke_c_ohara
