@@ -1,6 +1,6 @@
 ---
 title: WiFinder
-subtitle: Website Design
+subtitle: Ruby on Rails, Javascript, AJAX, Googlemaps
 layout: default
 modal-id: 2
 date: 2014-08-15

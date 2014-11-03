@@ -1,6 +1,6 @@
 ---
 title: GA-Planner
-subtitle: Website Design
+subtitle: Ruby on Rails, CanCanCan,
 layout: default
 modal-id: 1
 date: 2014-09-31

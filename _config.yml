@@ -18,7 +18,7 @@ color:
 people:
 - name: Luke O'Hara
   pic: 1
-  position: Lead Designer
+  position: Web developer, self proclaimed comedian and beard enthusiast.
   social:
     - title: twitter
       url: http://twitter.com/luke_c_ohara
@@ -33,6 +33,8 @@ social:
     url: http://www.facebook.com/luke.ohara
   - title: github
     url: http://github.com/luke-c-ohara
+  - title: linkedin
+    url: http://uk.linkedin.com/in/lukeohara
 
 # Postal address (add as many lines as necessary)
 address:

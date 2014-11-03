@@ -1,6 +1,6 @@
 ---
 title: GoalsGoalsGoals
-subtitle: Website Design
+subtitle: Rails, Javascript, AJAX, CSV, Webscraping, Downspout, Rake Tasks
 layout: default
 modal-id: 3
 date: 2014-07-16

@@ -368,7 +368,7 @@ section h3.section-subheading {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(254,209,54,.9);
+    background: rgba(94,173,255,0.8);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -787,6 +787,7 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content p {
     margin-bottom: 30px;
+    color: black;
 }
 
 .portfolio-modal .modal-content p.item-intro {
@@ -799,6 +800,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .modal-content ul.list-inline {
     margin-top: 0;
     margin-bottom: 30px;
+    color: black;
 }
 
 .portfolio-modal .modal-content img {
@@ -816,7 +818,7 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .close-modal:hover {
-    opacity: .3;
+    opacity: .1;
 }
 
 .portfolio-modal .close-modal .lr {
