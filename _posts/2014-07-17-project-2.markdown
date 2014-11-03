@@ -3,7 +3,7 @@ title: WiFinder
 subtitle: Website Design
 layout: default
 modal-id: 2
-date: 2014-09-15
+date: 2014-08-15
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt

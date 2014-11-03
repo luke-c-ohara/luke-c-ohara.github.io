@@ -3,7 +3,7 @@ title: GA-Planner
 subtitle: Website Design
 layout: default
 modal-id: 1
-date: 2014-08-31
+date: 2014-09-31
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt

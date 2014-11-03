@@ -23,20 +23,14 @@ people:
     - title: twitter
       url: http://twitter.com/luke_c_ohara
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: http://www.facebook.com/luke.ohara
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/luke_c_ohara
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: http://www.facebook.com/luke.ohara
   - title: github
     url: http://github.com/luke-c-ohara
 
