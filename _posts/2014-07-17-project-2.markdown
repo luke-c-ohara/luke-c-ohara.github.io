@@ -1,15 +1,15 @@
 ---
-title: Escape
+title: WiFinder
 subtitle: Website Design
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2014-09-15
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: September 2014
+client: General Assembly
+category: Project Two
+description: This site was created to allow users to store wifi credentials online, should they return to a location with a different device. It also allows for sharing of said data with friends aswell as finding networks that are close to you via Googlemaps.
 
 ---

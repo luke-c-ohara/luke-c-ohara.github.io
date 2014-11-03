@@ -1,15 +1,15 @@
 ---
-title: Dreams
+title: GA-Planner
 subtitle: Website Design
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2014-08-31
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: August 2014
+client: General Assembly
+category: Project One
+description: The app was created to allow users to view information about upcoming GA courses and enroll themselves. As well as allowing teachers to create new courses, cohorts and book classrooms for each class.
 
 ---
