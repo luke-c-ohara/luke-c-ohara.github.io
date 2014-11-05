@@ -10,12 +10,20 @@ body {
     color: #{{ site.color.secondary-dark }};
 }
 
+.work_logo {
+    top: 15px;
+}
+
 .text-muted {
     color: #777;
 }
 
 .text-primary {
     color: #{{ site.color.primary }};
+}
+
+.text-secondary {
+    color: #{{ site.color.secondary-dark }};
 }
 
 p {
@@ -62,7 +70,7 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #00b0ff;
 }
 
 .bg-darkest-gray {
@@ -547,7 +555,7 @@ section h3.section-subheading {
     }
 
     .timeline>li {
-        margin-bottom: 100px;
+        margin-bottom: 50px;
         min-height: 100px;
     }
 
@@ -862,4 +870,9 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
+}
+
+section {
+    padding-top: 100px;
+    padding-bottom: 100px;
 }

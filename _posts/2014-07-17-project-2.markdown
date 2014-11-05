@@ -1,6 +1,6 @@
 ---
 title: WiFinder
-subtitle: Ruby on Rails, Javascript, AJAX, Googlemaps
+subtitle: Ruby on Rails, Javascript, AJAX, Googlemaps, Devise
 layout: default
 modal-id: 2
 date: 2014-08-15
