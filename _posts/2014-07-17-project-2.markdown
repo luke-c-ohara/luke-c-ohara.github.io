@@ -4,7 +4,10 @@ subtitle: Ruby on Rails, Javascript, AJAX, Googlemaps, Devise
 layout: default
 modal-id: 2
 date: 2014-08-15
-img: escape.png
+img: wifi_splash.png 
+img_two: escape.png
+img_three: wifi_details.png
+img_four: wifi_search.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
 project-date: September 2014
