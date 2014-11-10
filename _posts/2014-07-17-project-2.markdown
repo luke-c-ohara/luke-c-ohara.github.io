@@ -1,5 +1,5 @@
 ---
-title: WiFinder
+title: Wi-Finder
 subtitle: Ruby on Rails, Javascript, AJAX, Googlemaps, Devise
 layout: default
 modal-id: 2
@@ -13,6 +13,6 @@ alt: image-alt
 project-date: September 2014
 client: General Assembly
 category: Project Two
-description: This site was created to allow users to store wifi credentials online, should they return to a location with a different device. It also allows for sharing of said data with friends aswell as finding networks that are close to you via Googlemaps.
+description: This site was created to allow users to store wifi credentials, should they return to a location with a different device. It also allows for sharing of this data with friends aswell as finding networks that are close to you via Googlemaps.<br><br>My favourite part of the site is the autocompleting, multi-select search. When looking for friends to share a network with, it auto populates a list with people that match your input and it also allows you to select more than one person at a time for a better user experience. 
 
 ---
