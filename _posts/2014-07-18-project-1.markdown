@@ -13,6 +13,6 @@ alt: image-alt
 project-date: August 2014
 client: General Assembly
 category: Project One
-description: The app was created to allow users to view information about upcoming GA courses and enroll themselves. As well as allowing teachers to create new courses, cohorts and book classrooms for each class. <br><br> The most difficult part of this app was making sure the associations were correct. With 8 tables in the database it was important that they were all linked correctly inorder to extract the desired information.
+description: The app was created to allow users to view information about upcoming GA courses and enrol themselves. As well as allowing teachers to create new courses, cohorts and book classrooms for each class. <br><br> The most difficult part of this app was making sure the associations were correct. With 8 tables in the database it was important that they were all linked correctly in-order to extract the desired information.
 
 ---
