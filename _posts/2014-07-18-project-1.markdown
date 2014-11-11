@@ -1,17 +1,18 @@
 ---
 title: GA-Planner
 subtitle: Ruby on Rails, CanCanCan <br><br>
-
 layout: default
 modal-id: 1
 date: 2014-09-31
 img: dreams.png
-img_two: escape.png
+img_two: planner_course_details.png
+img_three: planner_courses.png
+img_four: planner_classroom.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: August 2014
 client: General Assembly
 category: Project One
-description: The app was created to allow users to view information about upcoming GA courses and enroll themselves. As well as allowing teachers to create new courses, cohorts and book classrooms for each class.
+description: The app was created to allow users to view information about upcoming GA courses and enroll themselves. As well as allowing teachers to create new courses, cohorts and book classrooms for each class. <br><br> The most difficult part of this app was making sure the associations were correct. With 8 tables in the database it was important that they were all linked correctly inorder to extract the desired information.
 
 ---
