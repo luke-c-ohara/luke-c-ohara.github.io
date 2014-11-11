@@ -4,12 +4,15 @@ subtitle: Rails, Javascript, AJAX, CSV, Webscraping, Downspout, Rake Tasks
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
+img: ggg_splash.png
+img_two: golden.png
+img_three: ggg_search.png
+img_four: ggg_about.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
 project-date: October 2014
 client: General Assembly
 category: Project Three
-description: This app collects football fixtures/results data and displays information about the weekends games likely hood of both teams scoring, my favourite football bet. As good football data is difficult to obtain online, this could be used in the future to create my own API.
+description: This app collates football fixtures/results data and displays information about the weekends games. I have focused on the likely hood of both teams scoring, my favourite football bet, as a proof of concept but my database is currently storing over 60 types of data on each game. As good opensource football data is difficult to obtain online, this could be used in the future to create my own API.<br><br>For this app I set up rake tasks to go and fetch the data automatically. They can then be set to a particular interval (e.g once a day, twice a week) which means the data will always be up to date. The fixtures and team names are scraped from the internet, formated and stored in a datebase. Then the results are sourced, downloaded into a CSV file using downspout, formated and stored in the database in a way that stops duplication and recognises if dates for games have changed. 
 
 ---
